@@ -12,7 +12,7 @@
 
 ## 💼 Projects I'm Proud Of
 
-- 🔧 [Cloud-based website with integrated Augmented Reality for a Tire Shop]([https://github.com/your-repo-link](https://github.com/jyncodes/awto.git)
+- 🔧 [Cloud-based website with integrated Augmented Reality for a Tire Shop](https://github.com/jyncodes/awto)
 - 🌐 [My Portfolio Website](https://yourdomain.com)
 - 📱 [To-Do App with Firebase](https://github.com/your-todo-app)
 
@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jyncodes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=jyncodes&theme=tokyonight&hide_border=true)
 
 
 
