@@ -13,8 +13,6 @@
 ## 💼 Projects I'm Proud Of
 
 - 🔧 [Cloud-based website with integrated Augmented Reality for a Tire Shop](https://github.com/jyncodes/awto)
-- 🌐 [My Portfolio Website](https://yourdomain.com)
-- 📱 [To-Do App with Firebase](https://github.com/your-todo-app)
 
 ---
 
