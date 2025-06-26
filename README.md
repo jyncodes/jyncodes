@@ -10,12 +10,6 @@
 
 ---
 
-## 💼 Projects I'm Proud Of
-
-- 🔧 [Cloud-based website with integrated Augmented Reality for a Tire Shop](https://github.com/jyncodes/awto)
-
----
-
 ## 🚀 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
