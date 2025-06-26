@@ -27,9 +27,10 @@
 
 ---
 
-## 📊 GitHub Streak
+## 📚 Most Used Languages
 
-<img src="https://streak-stats.demolab.com?user=jyncodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyncodes&layout=compact&theme=tokyonight&hide=html&langs_count=6)](https://github.com/jyncodes)
+
 
 
 ---
