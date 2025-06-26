@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Jane
 
 🎓 BSIT from STI College Rosario  
-💻 Full-Stack Web Designer and Developer...
+💻 Full-Stack Web Designer and Developer  
 🌱 Currently learning React, Firebase, and Tailwind CSS  
-🔭 Working on: Cloud-based website with integrated Augmented Reality for a Tire Shop (2025)
+🔭 Working on: Cloud-based website with integrated Augmented Reality for a Tire Shop (2025)  
 💬 Ask me about freelance, graphic design, design-to-code, and Firebase setup  
 📫 Reach me: atjaneservice@gmail.com  
 ⚡ Fun Fact: I used to design on Wix before I started coding websites!
@@ -31,10 +31,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jyncodes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
-
-
-
-
 ---
-
