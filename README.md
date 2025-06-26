@@ -29,7 +29,8 @@
 
 ## 📊 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jyncodes&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=jyncodes&theme=default&hide_border=true)
+
 
 
 
